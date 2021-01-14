@@ -1,3 +1,3 @@
 # Add your variables here
 first_number = 20
-secont_number = 15
+second_number = 15
